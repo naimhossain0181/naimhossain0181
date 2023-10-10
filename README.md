@@ -7,7 +7,7 @@
   <img align="right" alt="coding gif" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
 </div>
 <div align="left">
-  <p align="left" wight="200">
+  <p align="left">
     <img src="https://komarev.com/ghpvc/?username=naimhossain0181&label=Profile%20views&color=0e75b6&style=flat" alt="naimhossain0181" />
   </p>
   <h3 align="left">👩‍💻 About Me</h3> ### <br>- 🔭 I’m looking a job Junior MERN Stake Developer <br>- 📚 I'm currently learning "ThreeJs" "React-Native" <br>- ⚡ In my free time paly with code </p> ###
