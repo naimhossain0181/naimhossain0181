@@ -1,15 +1,21 @@
-<h1 align="center">Hi 👋, I'm Naim Hossain</h1>
+<div align="center">
+  <h1 align="center">Hi 👋, I'm Naim Hossain</h1>
+
 <h3 align="center">A passionate MERN Stake developer</h3>
+<img align="center" alt=""  wight="100" height="100" src="https://media4.giphy.com/media/B1c3S2AfbzkKSJoFmm/200w.gif"/>
+</div>
 
-<img align="right" alt="coding gif" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"/>
+<div align="center">
 
-<p align="left" wight="100"  > <img src="https://komarev.com/ghpvc/?username=naimhossain0181&label=Profile%20views&color=0e75b6&style=flat" alt="naimhossain0181" /> </p>
+<img align="right" alt="coding gif"  src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"/>
+</div>
+<p align="left" wight="200"  > <img src="https://komarev.com/ghpvc/?username=naimhossain0181&label=Profile%20views&color=0e75b6&style=flat" alt="naimhossain0181" /> </p>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Naim Hossain from Bangladesh<br><br>- 🔭 I’m working as a Junior MERN Stake Developer<br>- 📚 I'm currently learning "ThreeJs" "React-Native"<br>- ⚡ In my free time paly with code</p>
+<br>- 🔭 I’m looking a job Junior MERN Stake Developer<br>- 📚 I'm currently learning "ThreeJs" "React-Native"<br>- ⚡ In my free time paly with code</p>
 
 ###
 
