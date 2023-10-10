@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding gif" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naimhossain0181&label=Profile%20views&color=0e75b6&style=flat" alt="naimhossain0181" /> </p>
+<p align="left" wight="100"  > <img src="https://komarev.com/ghpvc/?username=naimhossain0181&label=Profile%20views&color=0e75b6&style=flat" alt="naimhossain0181" /> </p>
 
 - 🌱 I’m currently learning **react-native,three js**
 
