@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">I'm Naim Hossain from Bangladesh<br><br>- 🔭 I’m working as a Junior MERN Stake Developer<br>- 📚 I'm currently learning "ThreeJs" "React-Native"<br>- ⚡ In my free time paly with javascript</p>
+<p align="left">I'm Naim Hossain from Bangladesh<br><br>- 🔭 I’m working as a Junior MERN Stake Developer<br>- 📚 I'm currently learning "ThreeJs" "React-Native"<br>- ⚡ In my free time paly with code</p>
 
 ###
 
