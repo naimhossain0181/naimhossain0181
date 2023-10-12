@@ -8,9 +8,9 @@
 </div>
 <div align="left">
   <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=naimhossain0181&label=Profile%20views&color=0e75b6&style=flat" alt="naimhossain0181" />
-  </p>
-  <h3 align="left">👩‍💻 About Me</h3> ### <br>- 🔭 I’m looking a job Junior MERN Stake Developer <br>- 📚 I'm currently learning "ThreeJs" "React-Native" <br>- ⚡ In my free time paly with code </p> ###
+<!--     <img src="https://komarev.com/ghpvc/?username=naimhossain0181&label=Profile%20views&color=0e75b6&style=flat" alt="naimhossain0181" />
+  </p> -->
+  <h3 align="left">👩‍💻 About Me</h3> ### <br>- <br>- 📚 I'm currently learning "ThreeJs" "React-Native" <br>- ⚡ In my free time paly with code </p> ###
 </div>
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -53,8 +53,8 @@
 </div> ### <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimhossain0181&show_icons=true&locale=en&layout=compact" alt="naimhossain0181" />
 </p>
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=naimhossain0181&show_icons=true&locale=en" alt="naimhossain0181" />
-</p>
+<!-- <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=naimhossain0181&show_icons=true&locale=en" alt="naimhossain0181" />
+</p> -->
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimhossain0181&" alt="naimhossain0181" />
 </p>
